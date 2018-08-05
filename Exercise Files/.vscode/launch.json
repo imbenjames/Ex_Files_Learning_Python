@@ -14,7 +14,7 @@
             "name": "Python: Attach",
             "type": "python",
             "request": "attach",
-            "localRoot": "",
+            "localRoot": "b",
             "remoteRoot": "${workspaceFolder}",
             "port": 3000,
             "secret": "my_secret",
