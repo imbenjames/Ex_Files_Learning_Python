@@ -3,7 +3,7 @@
 #
 
 def main():
-  x = 0
+  #x = 0
 
   # define a while loop
   # while (x<5):
